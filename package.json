@@ -1,0 +1,23 @@
+{
+  "name": "backend-latihan",
+  "version": "1.0.0",
+  "description": "latihan backend",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rezalatihan/backEnd-latihan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rezalatihan/backEnd-latihan/issues"
+  },
+  "homepage": "https://github.com/Rezalatihan/backEnd-latihan#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
